@@ -1,4 +1,7 @@
-#🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
+# 🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
+
+#Cybersecurity #InfoSec #ThreatIntel #RiskAssessment #CyberDefense #SecurityConsulting #CyberRiskManagement #CyberThreats #MITREATTACK #OSINT #DataProtection
+
 
 📚 Overview
 This project simulates real-world tasks performed by cybersecurity consultants at Datacom. You will investigate an advanced cyberattack by APT34 and conduct a full cybersecurity risk assessment for a fictional client. These exercises will help you develop critical skills in threat analysis, risk evaluation, and strategic security planning.
