@@ -1,69 +1,64 @@
-# 🛡️ Cybersecurity Incident Investigation & Threat Intelligence Reporting
+🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
+📚 Overview
+This project simulates real-world tasks performed by cybersecurity consultants at Datacom. You will investigate an advanced cyberattack by APT34 and conduct a full cybersecurity risk assessment for a fictional client. These exercises will help you develop critical skills in threat analysis, risk evaluation, and strategic security planning.
 
-## 📚 Overview
+🧠 What You'll Learn
+How consultants investigate advanced cyber threats
 
-Welcome to the world of cybersecurity! In this project, you'll take on the role of a **cybersecurity consultant at Datacom**, investigating a real-world-style cyberattack. One of our high-profile tech clients has been targeted by a sophisticated **Advanced Persistent Threat (APT)** group—**APT34**, suspected to be backed by a foreign government. Sensitive data has been stolen, and the client's systems remain vulnerable.
+OSINT and MITRE ATT&CK-based threat profiling
 
-You'll learn how cybersecurity professionals investigate such incidents, assess threats, and help organizations recover and build stronger defenses.
+How to identify, evaluate, and prioritize cybersecurity risks
 
----
+Using a risk matrix to assess threats and recommend mitigations
 
-## 🎯 What You'll Learn
+Communicating findings and strategies to non-technical stakeholders
 
-* How cybersecurity consultants evaluate and respond to sophisticated attacks
-* Core cybersecurity concepts including threats, vulnerabilities, and the CIA triad (Confidentiality, Integrity, Availability)
-* Tactics, techniques, and procedures (TTPs) used by APT34
-* How to produce professional reports with findings and actionable recommendations
+🚀 Project Tasks
+✅ Task 1: Investigate APT34 & Assess the Breach
+What You'll Do
 
----
+Research APT34 using OSINT tools
 
-## 🛠️ What You'll Do
+Apply the MITRE ATT&CK framework to map TTPs
 
-You will conduct a structured investigation into a simulated cyberattack and create a professional-grade report. The project is broken down into key tasks:
+Assess impact on confidentiality, integrity, and availability
 
-### ✅ Task 1: Investigate APT34 & Assess the Breach
+Produce a threat intelligence report with key recommendations
 
-You will begin by stepping into your role as a cybersecurity consultant:
+Deliverable
+📄 APT34 Threat Intelligence Report
 
-* **Background**:
-  A major client has been breached by **APT34**, a well-known threat group. The attack has resulted in the theft of customer data and intellectual property. Your task is to conduct **initial threat research** and **evaluate the potential impact** on the organization’s information security.
+✅ Task 2: Perform a Cybersecurity Risk Assessment
+What You'll Do
 
-* **Objective**:
+Define the client’s context and key assets
 
-  * Research APT34’s background, motivations, and TTPs
-  * Assess the breach’s potential impact on the client’s network and data
-  * Understand core cybersecurity principles and how they relate to this attack
-  * Prepare a detailed report documenting findings and recommendations
+Identify potential threats and vulnerabilities
 
-* **Deliverable**:
-  A comprehensive **Initial Threat Intelligence Report**, including:
+Evaluate risks using a standard risk matrix
 
-  * Overview of APT34
-  * Attack methods and likely breach vectors
-  * Impact assessment based on the CIA triad
-  * Key recommendations to improve the client's cybersecurity posture
+Recommend mitigation strategies for high-priority risks
 
----
+Deliverable
+📄 Cybersecurity Risk Assessment Report
 
-## 📄 Final Deliverable
+🧰 Tools & Resources
+MITRE ATT&CK – Threat classification framework
 
-At the conclusion of the project, you will submit a **Cybersecurity Incident Report** that includes:
+Shodan, VirusTotal, OTX – OSINT tools
 
-* Executive Summary
-* Technical Findings
-* Threat Actor Profile (APT34)
-* Attack Timeline
-* Impact Analysis
-* Remediation Strategies & Recommendations
+SecurityTrails – Asset footprinting
 
----
+OWASP Top 10 – Common vulnerabilities
 
-## 🔐 Why This Project Matters
+🏁 Outcome
+By the end of this project, you’ll be able to:
 
-With technology and digital data now at the heart of business operations, cybersecurity is no longer optional. Attacks by APT groups are growing in sophistication, and every organization needs skilled professionals who can identify, analyze, and respond to threats.
+Investigate and report on nation-state threat actors
 
-This project gives you practical, hands-on experience in one of the most critical areas of modern IT security—helping you build skills that matter and make an impact.
+Assess cyber risks in an enterprise environment
 
----
+Create professional-grade reports used in client engagements
 
-Let me know if you'd like this in Markdown file format or want to add links, tools, or additional tasks!
+Communicate technical risks clearly to stakeholders
+
