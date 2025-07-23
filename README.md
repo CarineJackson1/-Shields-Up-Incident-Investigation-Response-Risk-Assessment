@@ -1,4 +1,4 @@
-🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
+#🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
 
 📚 Overview
 This project simulates real-world tasks performed by cybersecurity consultants at Datacom. You will investigate an advanced cyberattack by APT34 and conduct a full cybersecurity risk assessment for a fictional client. These exercises will help you develop critical skills in threat analysis, risk evaluation, and strategic security planning.
@@ -65,7 +65,7 @@ Communicate technical risks clearly to stakeholders
 
 ## Deliverables
 
-- [Cybersecurity Threat Intelligence Report (PDF)](./Cybersecurity%20Threat%20Intelligence%20Report.pdf)
+- [Cybersecurity Threat Intelligence Report (PDF)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting/blob/main/Cybersecurity%20Threat%20Intelligence%20Report.pdf)
 - [Risk Assessment Report Template (Markdown)]()
 
 
