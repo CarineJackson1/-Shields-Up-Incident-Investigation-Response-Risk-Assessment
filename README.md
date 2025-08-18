@@ -23,9 +23,7 @@ cybersecurity-incident-response-risk-assessment/
 │
 └── ransomware_response/
 ├── password_bruteforce.py
-├── ransomware_alert_analysis.py
-├── file_decryptor_sim.py
-└── stakeholder_emails/
+└── stakeholder_email/
 
 ---
 
