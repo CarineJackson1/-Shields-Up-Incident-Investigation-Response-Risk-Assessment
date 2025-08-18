@@ -1,76 +1,76 @@
-# 🛡️ Cybersecurity Consulting Project: Incident Investigation & Risk Assessment
+🛡️ Incident Response & Risk Assessment
 
-#Cybersecurity #InfoSec #ThreatIntel #RiskAssessment #CyberDefense #SecurityConsulting #CyberRiskManagement #CyberThreats #MITREATTACK #OSINT #DataProtection
+#Cybersecurity #IncidentResponse #ThreatIntel #RiskAssessment #ThreatDetection #DigitalForensics #CyberDefense #SOC #InfoSec #BreachResponse
 
+⸻
 
-📚 Overview
-This project simulates real-world tasks performed by cybersecurity consultants at Datacom. You will investigate an advanced cyberattack by APT34 and conduct a full cybersecurity risk assessment for a fictional client. These exercises will help you develop critical skills in threat analysis, risk evaluation, and strategic security planning.
+📚 Project Overview
 
-🧠 What I Learned
-How consultants investigate advanced cyber threats
+This project unifies hands-on technical simulation (ransomware attack response) with consulting-style risk assessment (APT34 investigation).
 
-OSINT and MITRE ATT&CK-based threat profiling
+It demonstrates both tactical response and strategic planning, covering the lifecycle of modern cybersecurity operations:
+	•	Detection & Analysis: Using CISA threat intelligence and MITRE ATT&CK
+	•	Response & Recovery: Incident handling, decryption simulation, stakeholder communications
+	•	Risk Assessment: OSINT investigation, mapping APT34 TTPs, and applying a risk matrix
+	•	Reporting: Professional-grade documentation for both technical and non-technical stakeholders
 
-How to identify, evaluate, and prioritize cybersecurity risks
+⸻
 
-Using a risk matrix to assess threats and recommend mitigations
+🧰 Tools & Technologies
+	•	🐍 Python (alert parsing, brute-force recovery tool)
+	•	🗂 JSON/CSV (CISA alert processing)
+	•	🔍 OSINT Tools: Shodan, VirusTotal, OTX, SecurityTrails
+	•	🧩 MITRE ATT&CK (threat mapping)
+	•	📄 Markdown & PDF reports (stakeholder communications, risk assessments)
 
-Communicating findings and strategies to non-technical stakeholders
+⸻
 
-🚀 Project Tasks
+🔍 Key Components
 
-✅ Task 1: Investigate APT34 & Assess the Breach
-What You'll Do
+1️⃣ Ransomware Response Module
+	•	ransomware_alert_analysis.py: Parses CISA alerts → CSV report of IOCs
+	•	file_decryptor_sim.py: Simulates recovery of encrypted files
+	•	password_bruteforce.py: Ethical brute-force exercise for encrypted ZIP recovery
+	•	stakeholder_emails/: Pre-built templates for crisis communications
+	•	incident_report.md: Timeline of events + mitigation steps
 
-Research APT34 using OSINT tools
+2️⃣ Threat Investigation & Risk Assessment Module
+	•	APT34 Threat Intel Report (OSINT + MITRE ATT&CK mapping of TTPs)
+	•	Cyber Risk Matrix: Evaluates Confidentiality, Integrity, and Availability impact
+	•	Risk Assessment Report: Identifies vulnerabilities, prioritizes risks, and recommends mitigations
 
-Apply the MITRE ATT&CK framework to map TTPs
+⸻
 
-Assess impact on confidentiality, integrity, and availability
+📊 Outcomes
 
-Produce a threat intelligence report with key recommendations
+✅ Hands-on ransomware incident response with recovery simulation
+✅ OSINT-powered analysis of nation-state threat actors (APT34)
+✅ Professional-grade threat intelligence + risk assessment reporting
+✅ Crisis communication templates tailored for stakeholders
+✅ Stronger detection, response, and risk management skills demonstrated
 
-Deliverable
+⸻
 
-📄 APT34 Threat Intelligence Report
+📧 Sample Stakeholder Communication
 
-✅ Task 2: Perform a Cybersecurity Risk Assessment
-What You'll Do
+🚨 Critical Alert Advisory
 
-Define the client’s context and key assets
+Notifies infrastructure owners of active ransomware threats referencing CISA/FBI/NSA alerts with actionable steps:
+	•	Enforce MFA
+	•	Patch vulnerable services
+	•	Lock down RDP exposure
 
-Identify potential threats and vulnerabilities
+⸻
 
-Evaluate risks using a standard risk matrix
+🏁 Final Deliverables
+	•	🐍 Python tools for alert parsing & brute-force recovery
+	•	📄 APT34 Threat Intelligence Report
+	•	📄 Cyber Risk Assessment Report (Risk Matrix)
+	•	📨 Stakeholder Communication Templates (TXT/PDF)
+	•	📑 Incident Report & Timeline
 
-Recommend mitigation strategies for high-priority risks
+⸻
 
-Deliverable
-📄 Cybersecurity Risk Assessment Report
+⚡This combined project shows both SOC analyst skills (detection/response) and consulting skills (risk assessment/reporting) — making it a standout for cybersecurity portfolios, job interviews, or certification prep (CompTIA Sec+, CySA+, etc.) ￼ ￼.
 
-🧰 Tools & Resources
-MITRE ATT&CK – Threat classification framework
-
-Shodan, VirusTotal, OTX – OSINT tools
-
-SecurityTrails – Asset footprinting
-
-OWASP Top 10 – Common vulnerabilities
-
-🏁 Outcome
-By the end of this project, you’ll be able to:
-
-Investigate and report on nation-state threat actors
-
-Assess cyber risks in an enterprise environment
-
-Create professional-grade reports used in client engagements
-
-Communicate technical risks clearly to stakeholders
-
-## Deliverables
-
-- [Cybersecurity Threat Intelligence Report (PDF)](https://github.com/CarineJackson1/-cybersecurity-incident-investigation-threat-intelligence-reporting/blob/main/Cybersecurity%20Threat%20Intelligence%20Report.pdf)
-- [Risk Assessment Report Template (Markdown)]()
-
-
+⸻
