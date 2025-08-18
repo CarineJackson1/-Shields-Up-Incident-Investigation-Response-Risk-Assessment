@@ -1,6 +1,27 @@
 # 🛡️ Cybersecurity Incident Investigation/Response & Risk Assessment
 
 #Cybersecurity #IncidentResponse #ThreatIntel #RiskAssessment #ThreatDetection #DigitalForensics #CyberDefense #SOC #InfoSec #BreachResponse  
+---
+
+cybersecurity-incident-response-risk-assessment/
+│── README.md
+│
+├── risk_assessment/
+│   ├── APT34_threat_intel_report.pdf   # ✅ Use your uploaded PDF here
+│   ├── risk_assessment_report.md       # (optional, summary in Markdown)
+│   └── cybersecurity_risk_matrix.xlsx
+│
+├── reports/
+│   ├── risk_matrix.md
+│   ├── executive_summary.md
+│   ├── incident_report.md
+│   └── final_combined_report.pdf
+│
+└── ransomware_response/
+    ├── password_bruteforce.py
+    ├── ransomware_alert_analysis.py
+    ├── file_decryptor_sim.py
+    └── stakeholder_emails/
 
 ---
 
@@ -86,3 +107,11 @@ Together, this project demonstrates **both SOC Analyst skills (hands-on detectio
 - Run a **red-team vs. blue-team simulation** for realism  
 
 ---
+
+## 📄 Reports & Deliverables
+
+- [🧾 Cybersecurity Threat Intelligence Report (APT34, PDF)](risk_assessment/APT34_threat_intel_report.pdf)
+- [📊 Risk Matrix (Markdown)](reports/risk_matrix.md)
+- [📑 Executive Summary](reports/executive_summary.md)
+- [📝 Incident Report Timeline](reports/incident_report.md)
+- [📄 Final Combined Report (PDF)](reports/final_combined_report.pdf)
