@@ -6,7 +6,7 @@
 📚 Overview
 This project simulates real-world tasks performed by cybersecurity consultants at Datacom. You will investigate an advanced cyberattack by APT34 and conduct a full cybersecurity risk assessment for a fictional client. These exercises will help you develop critical skills in threat analysis, risk evaluation, and strategic security planning.
 
-🧠 What You'll Learn
+🧠 What I Learned
 How consultants investigate advanced cyber threats
 
 OSINT and MITRE ATT&CK-based threat profiling
@@ -18,6 +18,7 @@ Using a risk matrix to assess threats and recommend mitigations
 Communicating findings and strategies to non-technical stakeholders
 
 🚀 Project Tasks
+
 ✅ Task 1: Investigate APT34 & Assess the Breach
 What You'll Do
 
@@ -30,6 +31,7 @@ Assess impact on confidentiality, integrity, and availability
 Produce a threat intelligence report with key recommendations
 
 Deliverable
+
 📄 APT34 Threat Intelligence Report
 
 ✅ Task 2: Perform a Cybersecurity Risk Assessment
