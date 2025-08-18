@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Project: Incident Response & Risk Assessment
+# 🛡️ Incident Response & Risk Assessment
 
 #Cybersecurity #IncidentResponse #ThreatIntel #RiskAssessment #ThreatDetection #DigitalForensics #CyberDefense #SOC #InfoSec #BreachResponse  
 
