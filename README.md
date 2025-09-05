@@ -298,10 +298,6 @@ This portfolio demonstrates **technical mastery** and **strategic thinking** req
 [![Resume](https://img.shields.io/badge/📄_Security_Clearance-Download_Resume-orange?style=for-the-badge)](https://github.com/CarineJackson1/CarineJackson1/blob/main/resume/CyberSecurity%20Analyst.pdf)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_Secure_Channel-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carinejackson)
 
-**Carine Jackson** - Senior Cybersecurity Operations Specialist  
-📧 **Secure Contact**: carinejackson48@gmail.com  
-🛡️ **Clearance Level**: Available upon request
-
 </div>
 
 ---
@@ -311,7 +307,5 @@ This portfolio demonstrates **technical mastery** and **strategic thinking** req
 ### 🛡️ **Mission Status: CLASSIFIED SUCCESS** 🛡️
 
 *Advanced persistent threats neutralized. Critical infrastructure protected. Mission accomplished.*
-
-**Available for**: *Senior SOC Manager • Threat Intelligence Lead • Incident Response Director • Cybersecurity Consultant*
 
 </div>
