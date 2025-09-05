@@ -163,12 +163,6 @@ PLATFORMS = ["SIEM", "SOAR", "Threat Intel", "Forensics"]
 - ✅ **SANS Incident Response** - 6-phase methodology
 - ✅ **MITRE ATT&CK** - Adversary behavior modeling
 
-### **Industry Certifications Demonstrated**
-- 🎓 **GCIH** - Incident handling and response
-- 🎓 **GCTI** - Cyber threat intelligence  
-- 🎓 **CISSP** - Information systems security
-- 🎓 **CEH** - Ethical hacking methodology
-
 ---
 
 ### **Next-Generation Security Operations**
@@ -184,7 +178,6 @@ PLATFORMS = ["SIEM", "SOAR", "Threat Intel", "Forensics"]
 > *"The Shields Up operation demonstrates elite-level cybersecurity capabilities across the full spectrum of modern security operations. From rapid incident response to strategic threat intelligence, this project showcases the expertise required for senior SOC leadership and cybersecurity consulting roles."*
 
 ### **Stakeholder Impact**
-- **Technical Teams**: Advanced tools and playbooks for operational use
 - **Management**: Clear risk assessments and mitigation strategies  
 - **Executives**: Strategic intelligence for business decision-making
 - **Regulators**: Comprehensive compliance documentation
