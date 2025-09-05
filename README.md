@@ -120,13 +120,6 @@ FRAMEWORKS = ["NIST CSF", "MITRE ATT&CK", "ISO 27001"]
 OSINT_TOOLS = ["Shodan", "VirusTotal", "OTX", "SecurityTrails"]
 PLATFORMS = ["SIEM", "SOAR", "Threat Intel", "Forensics"]
 ```
-
-### **Custom Security Tools Built**
-- 🔍 **Automated Alert Parser** - CISA JSON → CSV correlation engine
-- ⚡ **Ethical Decryption Suite** - Multi-algorithm recovery tools
-- 🎯 **Threat Intelligence Aggregator** - OSINT data fusion platform
-- 📊 **Risk Calculator** - Dynamic CIA impact assessment
-  
 ---
 
 ## 🎬 **Live Operation Demonstrations**
