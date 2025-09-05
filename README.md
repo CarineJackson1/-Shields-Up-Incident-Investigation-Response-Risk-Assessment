@@ -290,9 +290,7 @@ Professional-grade documentation suitable for:
 
 <div align="center">
 
-### 🏆 **Ready for Senior Security Leadership?**
-
-This portfolio demonstrates **technical mastery** and **strategic thinking** required for senior cybersecurity roles. Every tool, report, and procedure has been battle-tested against real-world threats.
+### 🏆 **Links**
 
 [![Portfolio](https://img.shields.io/badge/🔗_View_Full_Operation-Classified_Access-red?style=for-the-badge)](https://github.com/CarineJackson1/-Shields-Up-Incident-Investigation-Response-Risk-Assessment)
 [![Resume](https://img.shields.io/badge/📄_Security_Clearance-Download_Resume-orange?style=for-the-badge)](https://github.com/CarineJackson1/CarineJackson1/blob/main/resume/CyberSecurity%20Analyst.pdf)
