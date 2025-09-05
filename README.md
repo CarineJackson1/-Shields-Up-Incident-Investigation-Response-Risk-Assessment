@@ -126,40 +126,7 @@ PLATFORMS = ["SIEM", "SOAR", "Threat Intel", "Forensics"]
 - ⚡ **Ethical Decryption Suite** - Multi-algorithm recovery tools
 - 🎯 **Threat Intelligence Aggregator** - OSINT data fusion platform
 - 📊 **Risk Calculator** - Dynamic CIA impact assessment
-
----
-
-## 📂 **Mission Structure**
-
-```
-shields-up-operations/
-├── 🚨 ransomware_response/
-│   ├── ransomware_alert_analysis.py      # CISA alert automation
-│   ├── file_decryptor_sim.py             # Ethical recovery tools
-│   ├── password_bruteforce.py            # Advanced decryption
-│   └── stakeholder_communications/       # Crisis management
-│       ├── executive_briefing.pdf
-│       ├── technical_advisory.md
-│       └── media_response_template.txt
-│
-├── 🎯 apt34_investigation/
-│   ├── APT34_threat_intel_report.pdf     # 50-page intelligence report
-│   ├── osint_reconnaissance.py           # Automated OSINT collection
-│   ├── mitre_attack_mapping.json         # TTP correlation database
-│   └── ioc_indicators.csv                # 200+ IOCs identified
-│
-├── 📊 risk_assessment/
-│   ├── cybersecurity_risk_matrix.xlsx    # Interactive risk calculator
-│   ├── executive_summary.pdf             # C-suite presentation
-│   ├── technical_findings.md             # Detailed analysis
-│   └── mitigation_roadmap.pdf            # 12-month security plan
-│
-└── 📈 deliverables/
-    ├── final_operations_report.pdf       # Complete mission summary
-    ├── lessons_learned.md                # Operational improvements
-    └── playbook_updates.json             # SOC procedure updates
-```
-
+  
 ---
 
 ## 🎬 **Live Operation Demonstrations**
@@ -211,27 +178,6 @@ shields-up-operations/
 
 ---
 
-## 🚀 **Advanced Capabilities**
-
-### **Threat Hunting Innovations**
-```python
-class AdvancedThreatHunter:
-    def __init__(self):
-        self.techniques = [
-            "Behavioral Analytics",
-            "ML-Powered Anomaly Detection", 
-            "Hypothesis-Driven Investigation",
-            "Threat Intelligence Integration"
-        ]
-        
-    def hunt_apt34(self):
-        return {
-            "persistence_mechanisms": ["Registry modifications", "Scheduled tasks"],
-            "lateral_movement": ["PowerShell Empire", "Living-off-the-land"],
-            "data_exfiltration": ["DNS tunneling", "HTTPS C2"]
-        }
-```
-
 ### **Next-Generation Security Operations**
 - 🤖 **AI-Powered Threat Detection** using machine learning models
 - ☁️ **Cloud-Native Security** for AWS/Azure environments
@@ -249,22 +195,6 @@ class AdvancedThreatHunter:
 - **Management**: Clear risk assessments and mitigation strategies  
 - **Executives**: Strategic intelligence for business decision-making
 - **Regulators**: Comprehensive compliance documentation
-
----
-
-## 🎤 **Professional Speaking Points**
-
-### **For Technical Interviews:**
-- *"Reduced incident response time from industry standard 23 days to 4 hours"*
-- *"Built automated CISA alert processing reducing manual analysis by 85%"*
-- *"Conducted advanced OSINT investigation mapping APT34 infrastructure"*
-- *"Developed ethical decryption tools achieving 100% file recovery rate"*
-
-### **For Leadership Interviews:**
-- *"Delivered C-suite briefings during active cybersecurity incidents"*
-- *"Managed cross-functional crisis response teams under pressure"* 
-- *"Translated complex technical threats into business risk language"*
-- *"Developed strategic security roadmaps with quantified ROI metrics"*
 
 ---
 
