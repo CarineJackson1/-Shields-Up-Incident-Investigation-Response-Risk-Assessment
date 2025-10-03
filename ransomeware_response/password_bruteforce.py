@@ -16,7 +16,7 @@ def main():
                 password = line.strip()  
 
                 if try_password(zf, password):
-                    print(f"[+] Password found: {password}")
+                    print("[+] Password found!")
                     return  
                 else:
                     print("[-] Tried a password.")
