@@ -19,7 +19,7 @@ def main():
                     print(f"[+] Password found: {password}")
                     return  
                 else:
-                    print(f"[-] Tried: {password}")
+                    print("[-] Tried a password.")
 
     print("[!] Password not found in the list.")
 
